@@ -58,11 +58,15 @@
   <component name="SvnApplicationSettings">
     <option name="myCheckoutURLs">
       <list>
+        <option value="https://github.com/ZtCopeland/CSCI3300/projects/3" />
+        <option value="https://github.com/ZtCopeland/CSCI3300" />
         <option value="https://github.com/ZtCopeland/CSCI3300/projects/1" />
       </list>
     </option>
     <option name="myTypedURLs">
       <list>
+        <option value="https://github.com/ZtCopeland/CSCI3300/projects/3" />
+        <option value="https://github.com/ZtCopeland/CSCI3300" />
         <option value="https://github.com/ZtCopeland/CSCI3300/projects/1" />
       </list>
     </option>
