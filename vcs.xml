@@ -6,6 +6,10 @@
           <option name="url" value="https://github.com/ZtCopeland/CSCI3300.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="https://github.com/ZtCopeland/Sift" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
     <option name="cloneParentDir" value="C:\Users\Caleb\AndroidStudioProjects" />
